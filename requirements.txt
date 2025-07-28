@@ -1,0 +1,14 @@
+# Azure dependencies
+azure-storage-blob>=12.19.0
+azure-identity>=1.15.0
+
+# Validation and configuration
+pydantic>=2.5.0
+python-dotenv>=1.0.0
+
+# Testing dependencies
+pytest>=7.4.0
+pytest-mock>=3.12.0
+
+# Development dependencies
+pytest-cov>=4.1.0
